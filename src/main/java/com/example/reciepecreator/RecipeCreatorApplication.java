@@ -1,13 +1,13 @@
-package com.example.receipecreator;
+package com.example.reciepecreator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReceipeCreatorApplication {
+public class RecipeCreatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ReceipeCreatorApplication.class, args);
+		SpringApplication.run(RecipeCreatorApplication.class, args);
 	}
 
 }
